@@ -1,0 +1,483 @@
+[
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #01\nCold Start Noise — Timing Chain Tensioner Aus\nFuso Canter FE 74 HD\nInformasi Kasus\nKeluhan Pengemudi\nTerdengar bunyi ketukan halus berirama dari area mesin saat cold start, mirip suara \"tuk-tuk-tuk\" pelan\nBunyi muncul sejak mesin pertama dihidupkan di pagi hari\nBunyi menghilang sendiri setelah mesin warm-up sekitar 8-10 menit\nTidak ada bunyi sama sekali saat mesin sudah panas dan beroperasi normal\nTidak ada penurunan performa, tenaga, atau konsumsi oli yang signifikan\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nCelah katup (valve clearance) — diukur dan dalam batas normal sesuai spesifikasi\nLevel oli mesin — normal, tidak ada penurunan\nTekanan oli — diukur dengan gauge, normal di semua RPM\nKondisi bearing kopling — dirasakan getaran saat kopling diinjak, tidak ada kelainan\nPemasangan heat shield dan cover mesin — semua terpasang kencang\nTemuan Aktual\nSetelah membongkar cover timing chain, ditemukan bahwa spring tensioner timing chain telah melemah. Kekuatan pegas turun dari spesifikasi normal sehingga tidak mampu mempertahankan ketegangan chain secara konsisten.\nKondisi ini menyebabkan timing chain sedikit kendur (slack) terutama saat mesin cold start — ketika tekanan oli dari oil pump belum penuh dan hydraulic tensioner belum bekerja optimal.\nSaat mesin sudah panas dan tekanan oli penuh, hydraulic tensioner bekerja dengan baik sehingga bunyi menghilang. Ini yang menyebabkan masalah sulit terdeteksi saat pemeriksaan standar.\nTiming chain itu sendiri masih dalam kondisi baik — stretch minimal, tidak perlu diganti.\nTindakan dan Solusi\nGanti timing chain tensioner dengan komponen baru sesuai spesifikasi OEM\nPeriksa kondisi guide rail timing chain — kondisi masih layak, tidak perlu diganti\nPasang kembali semua komponen dan lakukan test drive untuk konfirmasi bunyi hilang\nCatat di service record: tensioner chain diganti di 67.000 km untuk referensi pemeriksaan berikutnya\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_01_canter_cold_start_noise_timing_chain.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Canter",
+      "chunk_id": "case_01"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #02\nHard Starting Intermittent — Udara Masuk Sistem BBM dari Hose Retak\nFuso Canter FE 74 HD\nInformasi Kasus\nKeluhan Pengemudi\nSetiap pertama kali dihidupkan setelah parkir lebih dari 2 hari, mesin memerlukan cranking 15-20 detik sebelum menyala\nSetelah mesin menyala dan jalan beberapa menit, performa normal dan tidak ada keluhan lain\nKeesokan harinya atau setelah parkir singkat, mesin langsung menyala normal\nMasalah hanya muncul secara konsisten setelah kendaraan tidak digunakan lebih dari 2 hari\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nBaterai — kondisi baik, voltage normal, sudah diganti baru oleh bengkel sebelumnya namun masalah tetap ada\nGlow plug / busi pijar — semua normal, resistance sesuai spesifikasi\nFilter bahan bakar — baru diganti 8.000 km yang lalu, kondisi masih layak\nFuel pump — ada tekanan saat diperiksa dengan gauge\nTemuan Aktual\nDitemukan micro-crack pada low-pressure fuel hose di titik lekukan antara tangki bahan bakar dan lift pump. Crack tidak terlihat dengan inspeksi visual biasa karena celah sangat kecil dan tertutup saat hose tidak dalam posisi operasi.\nSaat mesin mati dan sistem tidak bertekanan, udara perlahan masuk ke jalur bahan bakar melalui micro-crack tersebut. Setelah parkir beberapa hari, akumulasi udara cukup besar sehingga lift pump harus bekerja lebih keras untuk membuang udara dan membangun tekanan bahan bakar — inilah yang menyebabkan cranking lama.\nSetelah mesin menyala dan sistem bahan bakar bertekanan, celah crack tertutup oleh tekanan dan tidak menyedot udara lagi. Ini menjelaskan mengapa performa normal setelah mesin menyala.\nKonfirmasi dilakukan dengan memeriksa jalur balik bahan bakar saat mesin hidup — terlihat gelembung udara yang keluar dari jalur return ke tangki.\nTindakan dan Solusi\nGanti low-pressure fuel hose dari tangki ke lift pump dengan hose baru sesuai spesifikasi\nLakukan pemeriksaan visual seluruh jalur hose bahan bakar untuk memastikan tidak ada micro-crack di titik lain\nBleeding sistem bahan bakar setelah penggantian hose\nUji coba: kendaraan diparkir 3 hari, kemudian dicoba start — langsung menyala normal, masalah selesai\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_02_canter_hard_starting_udara_di_bbm.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Canter",
+      "chunk_id": "case_02"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #03\nBrake Fade di Turunan Panjang — Bukan Kerusakan Rem\nFuso Canter FE 74 HD\nInformasi Kasus\nKeluhan Pengemudi\nRem terasa \"lembek\" dan tidak pakem di pertengahan turunan panjang\nPedal rem terasa harus diinjak lebih dalam untuk mendapatkan pengereman yang sama\nSetelah berhenti dan istirahat 20-30 menit, rem normal kembali\nDi jalan datar dan kondisi normal, rem tidak pernah bermasalah\nPengemudi sudah sangat khawatir karena kejadian ini di turunan dengan tebing di sisi jalan\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nKampas rem (brake lining) — kondisi baik, ketebalan 6 mm dari batas minimal 2 mm\nMinyak rem — level normal, tidak ada kebocoran pada master silinder atau wheel cylinder\nBrake drum — tidak ada scoring atau keretakan yang terlihat\nBrake adjuster — sudah disetel ulang sesuai spesifikasi\nAir dalam sistem rem — dilakukan bleeding, tidak ditemukan udara berlebih\nTemuan Aktual\nTidak ditemukan kerusakan fisik pada sistem rem. Semua komponen dalam kondisi baik dan sesuai spesifikasi.\nSetelah saya ikut bersama pengemudi untuk test drive di rute yang sama, ditemukan bahwa pengemudi secara konsisten menahan pedal rem sepanjang turunan dari atas sampai bawah tanpa memberikan jeda. Tidak ada penggunaan engine braking sama sekali.\nPengereman terus-menerus tanpa jeda menyebabkan overheating pada kampas rem dan drum. Ketika kampas rem mencapai suhu kritis, koefisien gesek turun drastis — inilah yang disebut brake fade. Ini bukan kerusakan komponen, ini konsekuensi fisika.\nKonfirmasi: setelah sesi coaching teknik mengemudi, pengemudi melakukan perjalanan yang sama menggunakan engine braking + interval braking — tidak ada brake fade sama sekali.\nTindakan dan Solusi\nTidak ada penggantian atau perbaikan komponen yang diperlukan\nCoaching teknik mengemudi di turunan panjang: gunakan engine braking (turunkan gigi) sebagai rem utama, rem kaki hanya sebagai suplemen dengan teknik interval (rem-lepas-rem-lepas)\nBriefing pengemudi lain di armada yang memiliki rute serupa\nDokumentasi kasus untuk referensi: jika ada laporan brake fade di armada, pertanyaan pertama adalah teknik mengemudi, bukan kondisi rem\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_03_canter_brake_fade_turunan_panjang.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Canter",
+      "chunk_id": "case_03"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #04\nOverheat di Tanjakan — O-Ring Thermostat Housing Bergeser\nFuso Fighter X FN61 FSL\nInformasi Kasus\nKeluhan Pengemudi\nMesin overheat setelah berkendara sekitar 15-20 menit di tanjakan dengan muatan penuh\nGauge temperatur masuk zona merah, ada steam tipis dari celah kap mesin\nSetelah dihentikan dan mesin didinginkan, temperatur kembali normal\nDi jalan datar meskipun dengan muatan penuh, tidak pernah overheat\nKejadian sudah berulang 4 kali dalam 2 minggu terakhir di jalur yang sama\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nRadiator — kondisi baik, tidak ada sumbatan, aliran air dari belakang ke depan lancar\nThermostat — dilepas dan diuji di air mendidih, membuka pada suhu 83 derajat C sesuai spesifikasi\nFan belt — ketegangan normal, tidak ada slip\nFan clutch — diuji dengan memutar kipas saat mesin dingin, ada hambatan yang sesuai\nLevel coolant — normal, tidak ada penurunan setelah dikendarai\nWater pump — tidak ada play pada shaft, tidak ada kebocoran di weep hole\nTemuan Aktual\nSetelah semua komponen utama sistem pendingin dinyatakan normal, fokus dialihkan ke area yang sering terlewat: O-ring pada thermostat housing.\nDitemukan bahwa O-ring telah bergeser sekitar 2-3 mm dari groove aslinya. Posisi ini tidak membuat O-ring terlihat rusak atau copot — terlihat normal saat mesin dingin karena material karet masih kaku.\nNamun saat mesin beroperasi di beban berat (tanjakan panjang dengan muatan penuh), tekanan coolant meningkat signifikan. Pada kondisi ini, O-ring yang tidak tepat di groove tidak mampu membentuk seal sempurna. Sebagian coolant bypass melewati celah antara thermostat housing dan mesin tanpa melalui radiator untuk didinginkan.\nEfeknya tidak terasa di jalan datar karena beban mesin lebih rendah dan tekanan coolant tidak setinggi saat tanjakan — inilah kenapa gejala hanya muncul di kondisi tertentu.\nTindakan dan Solusi\nGanti O-ring thermostat housing dengan O-ring baru sesuai spesifikasi diameter dan material\nPastikan O-ring terpasang rata sempurna di dalam groove sebelum memasang kembali thermostat housing\nBleeding sistem pendingin secara menyeluruh untuk memastikan tidak ada udara terperangkap\nUji coba dengan muatan penuh di jalur tanjakan yang sama selama 30 menit — temperatur stabil di zona normal\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_04_fighter_overheat_oring_thermostat_housing.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Fighter X",
+      "chunk_id": "case_04"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #05\nPower Loss Bertahap — Filter BBM Sekunder Tidak Pernah Diganti\nFuso Fighter X FN61 FSL\nInformasi Kasus\nKeluhan Pengemudi\nTenaga mesin berkurang secara perlahan selama sekitar 2 bulan terakhir\nAkselerasi terasa berat terutama saat mulai jalan dari berhenti dan saat tanjakan\nKonsumsi bahan bakar meningkat sekitar 20 persen dibandingkan biasanya untuk rute yang sama\nTidak ada asap berlebih atau suara tidak normal dari mesin\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nFilter udara — baru diganti, kondisi baik\nFilter bahan bakar PRIMER — sudah diganti sebagai langkah pertama diagnosis, namun masalah tidak membaik\nTekanan kompresi semua silinder — diukur, masih dalam batas normal\nKondisi turbocharger — tidak ada suara abnormal, boost terasa ada\nInjector — tidak ada indikasi suara knocking atau asap hitam yang mengindikasikan injector bermasalah\nTemuan Aktual\nDitemukan bahwa Fighter X FN61 FSL memiliki DUA filter bahan bakar: filter primer (yang sudah sering diganti) dan filter sekunder yang terletak di posisi berbeda, lebih tersembunyi.\nFilter bahan bakar sekunder selama 95.000 km belum pernah sekalipun diganti. Kondisinya sangat kotor dan tersumbat parah — warna filter yang seharusnya putih sudah berubah menjadi hitam kecokelatan.\nFilter sekunder yang tersumbat menyebabkan tekanan bahan bakar di sisi inlet injection pump tidak mencukupi untuk beban penuh. Pompa injeksi tidak mendapat suplai solar yang cukup sehingga injeksi tidak optimal dan tenaga mesin turun.\nSetelah filter sekunder diganti, tekanan bahan bakar kembali normal dan tenaga mesin pulih sepenuhnya dalam 2 hari operasi.\nTindakan dan Solusi\nGanti filter bahan bakar sekunder yang telah tersumbat\nCatat di service record: Fighter X FN61 FSL memiliki dua filter BBM, keduanya harus masuk jadwal penggantian rutin\nInformasikan ke kepala bengkel dan mekanik lain mengenai keberadaan filter sekunder dan lokasinya\nTentukan jadwal penggantian filter sekunder: setiap 40.000 km sesuai SOP\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_05_fighter_power_loss_filter_bbm_sekunder.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Fighter X",
+      "chunk_id": "case_05"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #06\nVibrasi di Kecepatan Spesifik — Balance Weight Propshaft Terlepas\nFuso Fighter X FN61 FSL\nInformasi Kasus\nKeluhan Pengemudi\nVibrasi terasa jelas di kabin dan di setir pada kecepatan 65-70 km/h\nDi bawah 60 km/h dan di atas 75 km/h vibrasi hilang atau sangat berkurang\nVibrasi bertambah parah saat muatan berat\nTidak ada bunyi abnormal, hanya getaran yang terasa di seluruh kabin\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nBalancing ban — sudah dilakukan ulang dua kali di bengkel berbeda, menggunakan pelek yang sama, namun masalah tetap ada persis sama\nKondisi ban — tidak ada flat spot, benjolan, atau keausan tidak merata yang signifikan\nUniversal joint (U-joint) propshaft — tidak ada play atau bunyi saat diputar manual\nWheel bearing semua roda — tidak ada play atau bunyi mendengung\nTemuan Aktual\nSaat pemeriksaan dengan kendaraan diangkat, dilakukan putaran manual pada propshaft secara perlahan sambil memperhatikan seluruh permukaan propshaft dari dekat.\nDitemukan satu dari tiga balance weight pada propeller shaft pertama (segmen dari transmisi ke center bearing) telah terlepas. Bekas las masih terlihat di permukaan propshaft, menunjukkan balance weight sebelumnya terpasang di posisi tersebut.\nBalance weight yang terlepas menyebabkan propshaft menjadi tidak seimbang. Imbalance ini menghasilkan getaran paling kuat pada putaran tertentu (resonance frequency) yang bertepatan dengan kecepatan 65-70 km/h.\nLas balance weight tergerus akibat tumbukan lumpur dan batu keras berulang kali selama operasi di jalur off-road. Ini bukan cacat produksi, melainkan konsekuensi kondisi operasi yang berat.\nTindakan dan Solusi\nBawa propshaft ke workshop yang memiliki alat dynamic balancing untuk propshaft\nLas kembali balance weight yang terlepas di posisi yang tepat berdasarkan hasil dynamic balancing\nPasang kembali propshaft dan lakukan test drive di kecepatan 65-80 km/h — vibrasi hilang sepenuhnya\nInspeksi balance weight propshaft segmen lain untuk memastikan kondisinya masih aman\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_06_fighter_vibrasi_balance_weight_propshaft.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Fighter X",
+      "chunk_id": "case_06"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #07\nAsap Putih Setelah Perbaikan Darurat — Coolant Diganti Air Biasa\nFuso Fighter X FN61 FSL\nInformasi Kasus\nKeluhan Pengemudi\nAsap putih tebal keluar dari knalpot secara konsisten, tidak hilang meskipun mesin sudah panas\nMesin terasa normal, tidak overheat, tidak ada penurunan tenaga yang signifikan\nPengemudi awalnya tidak mau cerita apa yang terjadi selama di lapangan\nKondisi muncul tiba-tiba sekitar 3 hari setelah perjalanan panjang dari Papua\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nGasket cylinder head — diperiksa indikasi kebocoran: oli tidak berwarna milky, tidak ada gelembung di lubang pengisian radiator saat mesin panas\nTekanan kompresi semua silinder — normal dan merata, tidak ada drop yang mengindikasikan gasket bocor\nLevel coolant — normal, tidak ada penurunan yang cepat yang mengindikasikan coolant masuk ke ruang bakar\nTemuan Aktual\nSetelah beberapa kali bertanya dengan pendekatan yang tidak menyudutkan, pengemudi akhirnya mengakui bahwa kendaraan mengalami kebocoran coolant di lapangan Papua yang jauh dari bengkel resmi.\nUntuk melanjutkan perjalanan, pengemudi mengisi sistem pendingin dengan air sumur yang tersedia di dekat lokasi. Air sumur tersebut mengandung kadar mineral yang sangat tinggi (hard water) khas daerah tersebut.\nAir bermineral tinggi yang dipanaskan berulang kali di dalam sistem pendingin meninggalkan deposit mineral (scale) di jalur coolant yang sempit, terutama di jalur kecil di dalam cylinder head. Deposit ini menghambat aliran coolant lokal dan menciptakan hot spot.\nHot spot di dalam cylinder head menyebabkan uap air berlebih yang keluar sebagai asap putih. Ini berbeda dari asap putih akibat gasket bocor — tidak ada kontaminasi coolant ke oli dan tidak ada gas pembakaran yang masuk ke sistem coolant.\nTindakan dan Solusi\nFlush sistem pendingin total tiga kali menggunakan radiator flush chemical untuk melarutkan deposit mineral\nPeriksa jalur coolant sempit di cylinder head menggunakan endoscope sederhana untuk memastikan tidak ada sumbatan parah yang tersisa\nIsi ulang dengan coolant yang benar: campuran 50 persen ethylene glycol dan 50 persen air distilasi\nMonitor kondisi asap selama 3 hari setelah flush — asap putih berangsur berkurang dan hilang sepenuhnya\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_07_fighter_asap_putih_air_biasa_coolant.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Fighter X",
+      "chunk_id": "case_07"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #08\nKeausan Mesin Dini — Intake Hose Retak Bypass Filter di Area Tambang\nBerlaku pada Fuso Canter FE 74 HD dan Fuso Fighter X FN61 FSL\nInformasi Kasus\nKeluhan Pengemudi\nKonsumsi oli meningkat perlahan selama 3-4 bulan terakhir\nTenaga mesin berkurang terutama saat beban penuh\nSaat cek kompresi rutin, ditemukan penurunan kompresi lebih cepat dari yang seharusnya untuk kilometer tersebut\nKondisi oli saat penggantian lebih hitam dan kotor dari biasanya meskipun interval penggantian diikuti\nFilter udara diganti sesuai jadwal — tidak ada yang terlewat\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nJadwal penggantian filter udara — sudah diikuti sesuai interval kondisi Ekstrem (setiap 5.000 km)\nKondisi filter udara saat diganti — selalu sangat kotor, konsisten dengan kondisi tambang\nKondisi fisik air filter housing dan clamp — terlihat normal dari luar\nTemuan Aktual\nDitemukan micro-crack pada intake hose di segmen antara air filter housing dan intake manifold. Pada unit Canter, crack berada di titik lekukan dekat engine mount. Pada unit Fighter, crack berada di area yang tertekuk akibat pemasangan ulang yang kurang tepat setelah penggantian filter sebelumnya.\nMicro-crack ini tidak terlihat dengan inspeksi visual biasa karena celah hanya membuka saat mesin beroperasi dan vacuum intake bekerja. Saat mesin mati, crack menutup dan hose terlihat normal.\nAkibatnya, sejumlah udara berdebu dari area tambang masuk langsung ke intake manifold tanpa melewati filter udara. Partikel debu abrasif yang terhisap langsung ke ruang bakar menyebabkan keausan dini pada dinding silinder, piston ring, dan valve seat.\nKeausan ini menjelaskan penurunan kompresi yang lebih cepat dari normal dan konsumsi oli yang meningkat.\nTindakan dan Solusi\nGanti intake hose pada kedua unit dengan hose baru sesuai spesifikasi\nPeriksa ulang kondisi clamp dan routing hose — pastikan tidak ada titik yang tertekuk tajam\nLakukan overhaul ringan pada kedua mesin: honing silinder, ganti piston ring yang sudah aus lebih dari toleransi\nTambahkan pemeriksaan intake hose ke dalam checklist servis rutin: spray test saat mesin hidup setiap 10.000 km\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_08_umum_keausan_dini_intake_hose_retak.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Lintas model",
+      "chunk_id": "case_08"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nCatatan Lapangan Teknisi — Dokumentasi Kasus Servis\nKasus #09\nMesin Mati Mendadak — Solar Terkontaminasi Air dari SPBU Terpencil\nBerlaku pada Fuso Canter FE 74 HD dan Fuso Fighter X FN61 FSL\nInformasi Kasus\nKeluhan Pengemudi\nMesin mati mendadak saat berkendara, tanpa ada peringatan atau gejala sebelumnya\nSetelah mati, mesin bisa di-cranking normal tapi tidak mau menyala sama sekali\nTidak ada lampu peringatan yang menyala sebelum mesin mati\nKejadian terjadi sekitar 3-4 jam setelah pengisian BBM di SPBU pinggir jalan\nYang Sudah Dicek Sebelum Eskalasi ke Teknisi Senior\nSemua pemeriksaan berikut sudah dilakukan oleh teknisi bengkel dan hasilnya normal atau tidak ditemukan masalah:\nBaterai — voltage normal, cranking kuat\nFuel pump — ada sinyal tekanan saat priming manual\nBusi pijar (glow plug) — semua normal\nSekering dan relay sistem bahan bakar — semua normal\nTemuan Aktual\nSetelah bertanya ke pengemudi tentang riwayat perjalanan, diketahui bahwa pengisian BBM terakhir dilakukan di SPBU kecil non-franchise di daerah yang sangat terpencil.\nSampel solar diambil dari tangki menggunakan selang kecil dan ditampung di botol bening. Terlihat jelas solar keruh dan ada lapisan air terpisah di bagian bawah botol — indikasi kuat kontaminasi air yang signifikan.\nAir dalam solar dalam jumlah besar menyebabkan sistem injeksi berhenti bekerja: air tidak compressible seperti solar, sehingga ketika pompa injeksi mencoba mengompresi \"solar\" yang sebenarnya mengandung banyak air, tekanan injeksi tidak terbentuk dengan benar. Mesin mati dan tidak mau menyala.\nPemeriksaan injector setelah pengosongan tangki menunjukkan dua dari empat injector mengalami kerusakan pada presisi internal akibat water hammer — air yang terkompresi paksa merusak toleransi sangat ketat pada nozzle injector.\nTindakan dan Solusi\nKuras tangki bahan bakar sepenuhnya, bilas dengan solar bersih\nGanti filter bahan bakar dan drain water separator\nBleeding seluruh sistem bahan bakar\nPeriksa semua injector — dua injector perlu overhaul akibat kerusakan internal\nIsi ulang dengan solar bersih dari sumber yang dapat dipercaya\nCatat nomor SPBU dan laporkan ke pihak terkait untuk tindak lanjut\nCatatan Lapangan Teknisi\nDokumentasi pengalaman lapangan — ditulis berdasarkan observasi dan penanganan langsung kasus ini:\nLesson Learned",
+    "metadata": {
+      "source": "case_09_umum_mesin_mati_solar_terkontaminasi_air.docx",
+      "doc_type": "case_report",
+      "vehicle_model": "Lintas model",
+      "chunk_id": "case_09"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nKTB Authorized Service Network\nSOP Perawatan Berkala\nFuso Canter FE 74 HD\nKTB-SOP-PM-CAN-001  |  Versi 1.0  |  Berlaku sejak: Januari 2024\nBerlaku untuk: Fuso Canter FE 74 HD",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "intro",
+      "chunk_id": "sop_sop_canter_fe74hd_sec1",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "1. Pendahuluan\nDokumen ini menetapkan standar perawatan berkala untuk Fuso Canter FE 74 HD dalam jaringan bengkel resmi KTB. Perawatan preventif yang konsisten adalah fondasi dari komitmen zero downtime KTB kepada pelanggan armada.\nSpesifikasi utama: GVW 7.500 kg, mesin 4D34-2AT5 (4 silinder turbo diesel, 136 PS), kapasitas oli mesin 8 liter.",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "1. Pendahuluan",
+      "chunk_id": "sop_sop_canter_fe74hd_sec2",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "1.1 Definisi Kondisi Operasi\nInterval perawatan dibagi tiga kategori berdasarkan kondisi nyata operasi kendaraan:",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "1.1 Definisi Kondisi Operasi",
+      "chunk_id": "sop_sop_canter_fe74hd_sec3",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "2. Jadwal Servis Berkala — Fuso Canter FE 74 HD\nGunakan interval kondisi Berat atau Ekstrem apabila kendaraan beroperasi di luar kondisi normal. Pilih interval yang lebih pendek di antara kilometer dan waktu.\nCatatan: Interval di atas mengacu pada kondisi yang terjadi lebih awal antara kilometer dan waktu.",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "2. Jadwal Servis Berkala — Fuso Canter FE 74 HD",
+      "chunk_id": "sop_sop_canter_fe74hd_sec4",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "4.1 Filter Oli Mesin\nPenggantian filter oli dilakukan bersamaan dengan penggantian oli mesin. Urutan kerja:\nPanaskan mesin 5 menit agar oli mengalir sempurna, kemudian matikan mesin\nTunggu 5 menit sebelum membuka drain plug\nBuka drain plug, tampung oli bekas di wadah tertutup sesuai prosedur limbah B3\nLepas filter lama dengan oil filter wrench (berlawanan jarum jam)\nOleskan sedikit oli baru pada seal karet filter baru sebelum dipasang\nPasang dengan tangan hingga seal menyentuh permukaan, kencangkan 3/4 putaran tambahan\nIsi oli baru sesuai kapasitas: Canter FE 74 HD = 8 liter\nHidupkan mesin, periksa kebocoran area filter dan drain plug, cek level dengan dipstick",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "4.1 Filter Oli Mesin",
+      "chunk_id": "sop_sop_canter_fe74hd_sec5",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "4.2 Filter Bahan Bakar\nCanter FE 74 HD menggunakan satu filter bahan bakar dengan water separator terintegrasi.\nTutup kran bahan bakar sebelum memulai\nDrain air dari water separator menggunakan drain cock di bagian bawah housing\nLepas filter menggunakan strap wrench, jaga area sekitar tetap bersih\nPENTING: isi filter baru dengan solar bersih sebelum dipasang (priming manual) - mencegah udara masuk ke sistem injeksi\nPasang, buka kran BBM, lakukan priming dengan hand pump hingga terasa hambatan\nHidupkan mesin, periksa kebocoran, pastikan idle normal tanpa asap berlebih",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "4.2 Filter Bahan Bakar",
+      "chunk_id": "sop_sop_canter_fe74hd_sec6",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "4.3 Filter Udara\nFilter udara sangat kritis untuk operasi berdebu. Salah penanganan dapat merusak mesin secara permanen.\nKondisi NORMAL: bersihkan dengan udara bertekanan dari dalam ke luar setiap 5.000 km, ganti setiap 20.000 km\nKondisi EKSTREM (tambang): periksa indikator vacuum harian, ganti jika indikator merah meskipun belum 5.000 km\nJANGAN membersihkan filter dengan air atau sikat - merusak media filter serap\nPeriksa kondisi intake hose - retak atau lepas berarti udara tidak terfilter masuk langsung ke mesin\nCatatan: Tanda filter udara tersumbat: akselerasi berat, asap hitam tebal, fuel consumption naik signifikan, tenaga berkurang saat tanjakan.",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "4.3 Filter Udara",
+      "chunk_id": "sop_sop_canter_fe74hd_sec7",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "5.1 Pre-Trip Inspection Harian (Sebelum Kendaraan Beroperasi)\nPengemudi WAJIB melakukan pemeriksaan ini setiap hari sebelum kendaraan diberangkatkan. Tidak lebih dari 10 menit.",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "5.1 Pre-Trip Inspection Harian (Sebelum Kendaraan Beroperasi)",
+      "chunk_id": "sop_sop_canter_fe74hd_sec8",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "5.2 Periodic Inspection Saat Servis Berkala\nDilakukan oleh teknisi bengkel resmi pada setiap kunjungan servis berkala. Harus didokumentasikan di work order.",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "5.2 Periodic Inspection Saat Servis Berkala",
+      "chunk_id": "sop_sop_canter_fe74hd_sec9",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "6.1 Operasi di Area Tambang (Kalimantan, Sulawesi, Papua)\nCanter FE 74 HD di area tambang menghadapi tiga ancaman utama: debu halus yang merusak filter dan pelumasan, beban berat yang meningkatkan panas mesin, dan jalan bergelombang yang mempercepat keausan suspensi.\nWAJIB pakai interval perawatan Kondisi Ekstrem - tidak ada kompromi\nGreasing titik chassis minimal setiap 2.000 km atau setiap minggu untuk operasi harian\nFilter udara: di area tambang batubara, filter bisa tersumbat dalam 2-3 hari operasi saja\nDrain separator air BBM setiap hari - solar berkualitas rendah di daerah terpencil sering mengandung air\nRadiator mudah tersumbat debu halus - bersihkan dari arah belakang ke depan setiap 10.000 km\nPeriksa seal axle dan transmisi setiap 10.000 km - lumpur dapat masuk dan merusak bearing dari dalam",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "6.1 Operasi di Area Tambang (Kalimantan, Sulawesi, Papua)",
+      "chunk_id": "sop_sop_canter_fe74hd_sec10",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "6.2 Panduan Temperatur Coolant - Referensi Cepat\nPantau gauge temperatur coolant selalu saat operasi, terutama di tanjakan panjang dengan muatan berat.\nPERHATIAN: Jangan membuka tutup radiator saat mesin masih panas. Tekanan tinggi dapat menyebabkan semburan cairan mendidih yang membahayakan teknisi.\nCatatan: Dokumen ini merupakan bagian dari sistem knowledge management KTB Authorized Service Network.",
+    "metadata": {
+      "source": "sop_canter_fe74hd.docx",
+      "section": "6.2 Panduan Temperatur Coolant - Referensi Cepat",
+      "chunk_id": "sop_sop_canter_fe74hd_sec11",
+      "doc_type": "sop",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nKTB Authorized Service Network\nSOP Perawatan Berkala\nFuso Fighter X FN61 FSL\nKTB-SOP-PM-FIG-001  |  Versi 1.0  |  Berlaku sejak: Januari 2024\nBerlaku untuk: Fuso Fighter X FN61 FSL",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "intro",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec1",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "1. Pendahuluan\nDokumen ini menetapkan standar perawatan berkala untuk Fuso Fighter X FN61 FSL dalam jaringan bengkel resmi KTB. Perawatan preventif yang konsisten adalah fondasi dari komitmen zero downtime KTB kepada pelanggan armada.\nSpesifikasi utama: GVW 26.000 kg, mesin 6D16-TLB (6 silinder turbo diesel, 220 PS), kapasitas oli mesin 18 liter.",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "1. Pendahuluan",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec2",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "1.1 Definisi Kondisi Operasi\nInterval perawatan dibagi tiga kategori berdasarkan kondisi nyata operasi kendaraan:",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "1.1 Definisi Kondisi Operasi",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec3",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "2. Jadwal Servis Berkala — Fuso Fighter X FN61 FSL\nGunakan interval kondisi Berat atau Ekstrem apabila kendaraan beroperasi di luar kondisi normal. Pilih interval yang lebih pendek di antara kilometer dan waktu.\nCatatan: Interval di atas mengacu pada kondisi yang terjadi lebih awal antara kilometer dan waktu.\nPERHATIAN: Fighter X FN61 FSL yang dioperasikan di area tambang WAJIB menggunakan interval Kondisi Ekstrem tanpa pengecualian.",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "2. Jadwal Servis Berkala — Fuso Fighter X FN61 FSL",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec4",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "4.1 Filter Oli Mesin\nPenggantian filter oli dilakukan bersamaan dengan penggantian oli mesin. Urutan kerja:\nPanaskan mesin 5 menit agar oli mengalir sempurna, kemudian matikan mesin\nTunggu 5 menit sebelum membuka drain plug\nBuka drain plug, tampung oli bekas di wadah tertutup sesuai prosedur limbah B3\nLepas filter lama dengan oil filter wrench (berlawanan jarum jam)\nOleskan sedikit oli baru pada seal karet filter baru sebelum dipasang\nPasang dengan tangan hingga seal menyentuh permukaan, kencangkan 3/4 putaran tambahan\nIsi oli baru sesuai kapasitas: Fighter X FN61 FSL = 18 liter\nHidupkan mesin, periksa kebocoran area filter dan drain plug, cek level dengan dipstick",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "4.1 Filter Oli Mesin",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec5",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "4.2 Filter Bahan Bakar\nFighter X FN61 FSL menggunakan sistem dua filter (primer + sekunder). Kedua filter harus diganti sesuai jadwal masing-masing.\nTutup kran bahan bakar sebelum memulai\nDrain air dari water separator menggunakan drain cock di bagian bawah housing\nLepas filter menggunakan strap wrench, jaga area sekitar tetap bersih\nPENTING: isi filter baru dengan solar bersih sebelum dipasang (priming manual) - mencegah udara masuk ke sistem injeksi\nPasang, buka kran BBM, lakukan priming dengan hand pump hingga terasa hambatan\nHidupkan mesin, periksa kebocoran, pastikan idle normal tanpa asap berlebih",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "4.2 Filter Bahan Bakar",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec6",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "4.3 Filter Udara\nFilter udara sangat kritis untuk operasi berdebu. Salah penanganan dapat merusak mesin secara permanen.\nKondisi NORMAL: bersihkan dengan udara bertekanan dari dalam ke luar setiap 5.000 km, ganti setiap 20.000 km\nKondisi EKSTREM (tambang): periksa indikator vacuum harian, ganti jika indikator merah meskipun belum 5.000 km\nJANGAN membersihkan filter dengan air atau sikat - merusak media filter serap\nPeriksa kondisi intake hose - retak atau lepas berarti udara tidak terfilter masuk langsung ke mesin\nCatatan: Tanda filter udara tersumbat: akselerasi berat, asap hitam tebal, fuel consumption naik signifikan, tenaga berkurang saat tanjakan.",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "4.3 Filter Udara",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec7",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "5.1 Pre-Trip Inspection Harian (Sebelum Kendaraan Beroperasi)\nPengemudi WAJIB melakukan pemeriksaan ini setiap hari sebelum kendaraan diberangkatkan. Tidak lebih dari 10 menit.",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "5.1 Pre-Trip Inspection Harian (Sebelum Kendaraan Beroperasi)",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec8",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "5.2 Periodic Inspection Saat Servis Berkala\nDilakukan oleh teknisi bengkel resmi pada setiap kunjungan servis berkala. Harus didokumentasikan di work order.",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "5.2 Periodic Inspection Saat Servis Berkala",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec9",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "6.1 Operasi di Area Tambang (Kalimantan, Sulawesi, Papua)\nFighter X FN61 FSL di area tambang menghadapi tiga ancaman utama: debu halus yang merusak filter dan pelumasan, beban berat yang meningkatkan panas mesin, dan jalan bergelombang yang mempercepat keausan suspensi.\nWAJIB pakai interval perawatan Kondisi Ekstrem - tidak ada kompromi\nGreasing titik chassis minimal setiap 2.000 km atau setiap minggu untuk operasi harian\nFilter udara: di area tambang batubara, filter bisa tersumbat dalam 2-3 hari operasi saja\nDrain separator air BBM setiap hari - solar berkualitas rendah di daerah terpencil sering mengandung air\nRadiator mudah tersumbat debu halus - bersihkan dari arah belakang ke depan setiap 10.000 km\nPeriksa seal axle dan transmisi setiap 10.000 km - lumpur dapat masuk dan merusak bearing dari dalam\nTurbocharger: bersihkan jalur oli turbo lebih sering di area berdebu - deposit karbon mempercepat keausan bearing",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "6.1 Operasi di Area Tambang (Kalimantan, Sulawesi, Papua)",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec10",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "6.2 Panduan Temperatur Coolant - Referensi Cepat\nPantau gauge temperatur coolant selalu saat operasi, terutama di tanjakan panjang dengan muatan berat.\nPERHATIAN: Jangan membuka tutup radiator saat mesin masih panas. Tekanan tinggi dapat menyebabkan semburan cairan mendidih yang membahayakan teknisi.\nCatatan: Dokumen ini merupakan bagian dari sistem knowledge management KTB Authorized Service Network.",
+    "metadata": {
+      "source": "sop_fighter_x_fn61fsl.docx",
+      "section": "6.2 Panduan Temperatur Coolant - Referensi Cepat",
+      "chunk_id": "sop_sop_fighter_x_fn61fsl_sec11",
+      "doc_type": "sop",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nKTB Authorized Service Network\nPanduan Diagnosis Gangguan Teknis\nFuso Canter FE 74 HD\nKTB-TG-CAN-001  |  Versi 1.0  |  Berlaku sejak: Januari 2024\nBerlaku untuk: Fuso Canter FE 74 HD",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "intro",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec1",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "1. Cara Menggunakan Panduan Ini\nPanduan ini disusun berdasarkan GEJALA (symptom-based), bukan berdasarkan sistem. Teknisi mengidentifikasi gejala yang dilaporkan, kemudian mengikuti langkah diagnosis secara berurutan dari yang paling sederhana ke yang lebih kompleks.\nIkuti urutan langkah diagnosis - jangan loncat ke kesimpulan tanpa memeriksa langkah sebelumnya\nTandai penyebab yang sudah dieliminasi sebelum melanjutkan ke langkah berikutnya\nDokumentasikan semua temuan di work order untuk referensi kasus serupa di masa depan",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "1. Cara Menggunakan Panduan Ini",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec2",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "2. Engine Overheating - Mesin Kepanasan\nOverheating adalah kondisi di mana temperatur coolant melebihi batas normal. Ini merupakan kasus paling umum dan paling berbahaya pada Fuso Canter FE 74 HD yang beroperasi dengan muatan berat di medan menanjak.",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "2. Engine Overheating - Mesin Kepanasan",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec3",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "2.2 Langkah Diagnosis Overheating (Urutan dari Paling Umum)\nCatatan: Canter FE 74 HD: jika langkah 1-7 tidak menemukan masalah, periksa kondisi thermostat housing - kadang seal O-ring geser dan tidak terdeteksi saat mesin dingin.",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "2.2 Langkah Diagnosis Overheating (Urutan dari Paling Umum)",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec4",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "3. Starting Failure - Mesin Sulit atau Tidak Bisa Dihidupkan\nStarting failure adalah keluhan paling sering dari pengemudi Fuso Canter FE 74 HD terutama di pagi hari. Ketidakmampuan start langsung menghentikan operasi armada.",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "3. Starting Failure - Mesin Sulit atau Tidak Bisa Dihidupkan",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec5",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "3.2 No Start - Mesin Sama Sekali Tidak Bisa Dihidupkan\nLangkah pertama: bedakan apakah starter motor berputar atau tidak.",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "3.2 No Start - Mesin Sama Sekali Tidak Bisa Dihidupkan",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec6",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "4. Abnormal Noise - Suara Tidak Normal\nInformasi dari pengemudi sangat penting: kapan suara muncul, dari mana asalnya, apakah berubah dengan kecepatan, beban, atau kondisi jalan.",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "4. Abnormal Noise - Suara Tidak Normal",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec7",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "5. Power Loss - Tenaga Mesin Berkurang\nKeluhan tenaga berkurang sering datang dari pengemudi Fuso Canter FE 74 HD yang mengoperasikan kendaraan di tanjakan atau dengan muatan berat. Penting membedakan penurunan bertahap (keausan) vs mendadak (kegagalan komponen).",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "5. Power Loss - Tenaga Mesin Berkurang",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec8",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "6.2 Panduan Warna Asap Knalpot - Diagnosa Cepat\nWarna asap knalpot adalah indikator diagnostik paling cepat yang dapat diamati tanpa alat apapun.\nCatatan: Dokumen ini merupakan bagian dari sistem knowledge management KTB untuk Fuso Canter FE 74 HD. Untuk kasus yang tidak tercakup, teknisi dapat mengacu pada Field Notes teknisi senior melalui sistem KTB TechAssist.",
+    "metadata": {
+      "source": "troubleshooting_canter_fe74hd.docx",
+      "section": "6.2 Panduan Warna Asap Knalpot - Diagnosa Cepat",
+      "chunk_id": "troubleshooting_troubleshooting_canter_fe74hd_sec9",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Canter"
+    }
+  },
+  {
+    "page_content": "PT KRAMA YUDHA TIGA BERLIAN MOTORS\nKTB Authorized Service Network\nPanduan Diagnosis Gangguan Teknis\nFuso Fighter X FN61 FSL\nKTB-TG-FIG-001  |  Versi 1.0  |  Berlaku sejak: Januari 2024\nBerlaku untuk: Fuso Fighter X FN61 FSL",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "intro",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec1",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "1. Cara Menggunakan Panduan Ini\nPanduan ini disusun berdasarkan GEJALA (symptom-based), bukan berdasarkan sistem. Teknisi mengidentifikasi gejala yang dilaporkan, kemudian mengikuti langkah diagnosis secara berurutan dari yang paling sederhana ke yang lebih kompleks.\nIkuti urutan langkah diagnosis - jangan loncat ke kesimpulan tanpa memeriksa langkah sebelumnya\nTandai penyebab yang sudah dieliminasi sebelum melanjutkan ke langkah berikutnya\nDokumentasikan semua temuan di work order untuk referensi kasus serupa di masa depan",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "1. Cara Menggunakan Panduan Ini",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec2",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "2. Engine Overheating - Mesin Kepanasan\nOverheating adalah kondisi di mana temperatur coolant melebihi batas normal. Ini merupakan kasus paling umum dan paling berbahaya pada Fuso Fighter X FN61 FSL yang beroperasi dengan muatan berat di medan menanjak.",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "2. Engine Overheating - Mesin Kepanasan",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec3",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "2.2 Langkah Diagnosis Overheating (Urutan dari Paling Umum)\nCatatan: Fighter X FN61 FSL: jika langkah 1-8 tidak menemukan masalah, periksa wastegate turbocharger - wastegate macet tertutup membuat boost berlebih dan meningkatkan panas mesin drastis.",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "2.2 Langkah Diagnosis Overheating (Urutan dari Paling Umum)",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec4",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "3. Starting Failure - Mesin Sulit atau Tidak Bisa Dihidupkan\nStarting failure adalah keluhan paling sering dari pengemudi Fuso Fighter X FN61 FSL terutama di pagi hari. Ketidakmampuan start langsung menghentikan operasi armada.",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "3. Starting Failure - Mesin Sulit atau Tidak Bisa Dihidupkan",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec5",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "3.2 No Start - Mesin Sama Sekali Tidak Bisa Dihidupkan\nLangkah pertama: bedakan apakah starter motor berputar atau tidak.",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "3.2 No Start - Mesin Sama Sekali Tidak Bisa Dihidupkan",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec6",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "4. Abnormal Noise - Suara Tidak Normal\nInformasi dari pengemudi sangat penting: kapan suara muncul, dari mana asalnya, apakah berubah dengan kecepatan, beban, atau kondisi jalan.",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "4. Abnormal Noise - Suara Tidak Normal",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec7",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "5. Power Loss - Tenaga Mesin Berkurang\nKeluhan tenaga berkurang sering datang dari pengemudi Fuso Fighter X FN61 FSL yang mengoperasikan kendaraan di tanjakan atau dengan muatan berat. Penting membedakan penurunan bertahap (keausan) vs mendadak (kegagalan komponen).",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "5. Power Loss - Tenaga Mesin Berkurang",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec8",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  },
+  {
+    "page_content": "6.2 Panduan Warna Asap Knalpot - Diagnosa Cepat\nWarna asap knalpot adalah indikator diagnostik paling cepat yang dapat diamati tanpa alat apapun.\nCatatan: Dokumen ini merupakan bagian dari sistem knowledge management KTB untuk Fuso Fighter X FN61 FSL. Untuk kasus yang tidak tercakup, teknisi dapat mengacu pada Field Notes teknisi senior melalui sistem KTB TechAssist.",
+    "metadata": {
+      "source": "troubleshooting_fighter_x_fn61fsl.docx",
+      "section": "6.2 Panduan Warna Asap Knalpot - Diagnosa Cepat",
+      "chunk_id": "troubleshooting_troubleshooting_fighter_x_fn61fsl_sec9",
+      "doc_type": "troubleshooting",
+      "vehicle_model": "Fighter X"
+    }
+  }
+]
