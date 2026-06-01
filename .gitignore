@@ -1,5 +1,6 @@
 myenv/
 .env
 monitoring.db
+eval_results.csv
 __pycache__/
 *.pyc
