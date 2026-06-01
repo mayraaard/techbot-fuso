@@ -278,11 +278,3 @@ api_key = os.getenv("GOOGLE_API_KEY")
 | Kode + Dokumentasi | 10 | README lengkap, tidak ada hardcoded credentials |
 
 ---
-
-## Catatan untuk Claude Code
-
-- Mulai dari `ingest.py` — ini fondasi seluruh sistem
-- Test setiap modul sebelum lanjut ke modul berikutnya
-- Jangan jalankan ingest dari dalam `app.py`
-- BM25Retriever butuh `all_chunks` (list of Document objects) — simpan sebagai variable saat load, jangan pickle
-- Semua teks output dalam Bahasa Indonesia
