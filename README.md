@@ -130,7 +130,7 @@ git commit -m "update: re-ingest knowledge base"
 ### Jalankan aplikasi Streamlit
 
 ```bash
-streamlit run app2.py
+streamlit run app.py
 ```
 
 Buka browser di `http://localhost:8501`.
@@ -164,7 +164,7 @@ Output: ringkasan di terminal + `eval_results.csv`.
 
 1. Push repo ke GitHub (pastikan `chroma_db/` dan `bm25_chunks.json` ikut ter-commit)
 2. Buka [share.streamlit.io](https://share.streamlit.io) → **New app**
-3. Pilih repo, branch `main`, file `app2.py`
+3. Pilih repo, branch `main`, file `app.py`
 4. Di **Advanced settings → Secrets**, tambahkan:
 
 ```toml
